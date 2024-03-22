@@ -1,0 +1,27 @@
+[
+  {
+    "Code": 1,
+    "Name": "Cheese",
+    "Price": 500
+  },
+  {
+    "Code": 2,
+    "Name": "Beer",
+    "Price": 250
+  },
+  {
+    "Code": 3,
+    "Name": "Ketchup",
+    "Price": 150
+  },
+  {
+    "Code": 4,
+    "Name": "Juice",
+    "Price": 350
+  },
+  {
+    "Code": 5,
+    "Name": "Orange",
+    "Price": 452
+  }
+]
