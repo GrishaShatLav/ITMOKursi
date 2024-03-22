@@ -8,7 +8,7 @@ namespace Test_12_Lesson_13
 {
     sealed class MultiBuilding:Building
     {
-        int numFloors;
+        private int numFloors;
         int NumFloors
         {
             get

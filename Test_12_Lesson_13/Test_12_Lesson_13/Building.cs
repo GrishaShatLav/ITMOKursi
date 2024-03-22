@@ -9,10 +9,10 @@ namespace Test_12_Lesson_13
 {
     internal class Building
     {
-        string adress;
-        int length;
-        int width;
-        int height;
+        private string adress;
+        private int length;
+        private int width;
+        private int height;
 
         string Adress
         {
